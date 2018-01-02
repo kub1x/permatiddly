@@ -1,0 +1,12 @@
+created: 20180102185224116
+modified: 20180102191352422
+tags: 
+title: Poznamky k téhle wiki
+type: text/vnd.tiddlywiki
+
+GitHub TiddlyWiki5: https://github.com/Jermolene/TiddlyWiki5/
+
+GitHub tehle stranky: https://github.com/kub1x/permatiddly
+
+Relativní cesta appky se podle [[dokumentace|https://tiddlywiki.com/static/Using%2520a%2520custom%2520path%2520prefix%2520with%2520the%2520client-server%2520edition.html]] nastavuje vytvorenim tiddleru:
+[[$:/config/tiddlyweb/host]] s hodnotou: `$protocol$//$host$/path/to/my/wiki/`. To ale vytvoří nějaké další tiddlery, které to umí pěkně dokurvit =/
