@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "tiddlywiki . --server 8877",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
