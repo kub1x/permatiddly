@@ -1,0 +1,12 @@
+created: 20180103115319409
+modified: 20180103123824977
+tags: Deník
+title: 3. 1. 2018 - Začínáme
+type: text/vnd.tiddlywiki
+
+Po dlouhém hledání toho nejlepšího záznamníku na permakulturní poznámky jsem objevil ~TiddlyWiki. Je to systém na psaní poznámek, kde všechno je //tiddler//. Obrázek je tiddler, poznámka je tiddler, i tahle deníková zpráva je tiddler. 
+
+Co je ale důležité, že se celá tahle wiki bude moci pomocí jednoho tlačítka uložit jako jeden soubor a bude pak navždycky fungovat. Stačí ji mít vždy někde uloženou. Říkám tomu Permatiddly a ukládám to tudlenc: https://github.com/kub1x/permatiddly
+
+Dnes byly zároveň vytvořeny tyto tiddlery:
+<<list-links "[!tag[Deník]sameday:created{!!created}!prefix[$:]sort[title]]">>

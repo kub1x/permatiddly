@@ -1,0 +1,8 @@
+caption: Name as shown in menu
+created: 20180103123522617
+modified: 20180103123559828
+tags: $:/tags/TextEditor/Snippet
+title: Tiddlery vytvořeny ve stejný den jako tento (bez systémových)
+type: text/vnd.tiddlywiki
+
+<<list-links "[!tag[Deník]sameday:created{!!created}!prefix[$:]sort[title]]">>

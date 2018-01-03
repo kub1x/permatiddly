@@ -1,0 +1,10 @@
+caption: Name as shown in menu
+created: 20180103121849121
+modified: 20180103121921727
+tags: $:/tags/TextEditor/Snippet
+title: Odkazuje sem (seznam backlinků)
+type: text/vnd.tiddlywiki
+
+----
+Odkazuje sem: 
+<<list-links "[all[current]backlinks[]]">>
