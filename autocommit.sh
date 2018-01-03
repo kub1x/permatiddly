@@ -15,7 +15,7 @@ while : ; do
 
     if [ "$change" = "$newchange" ] ; then
       git add $DIR
-      git commit -m "BACKUP: $(date --rfc-3339=TIMESPEC)"
+      git commit -m "BACKUP: $(date --rfc-3339=seconds)"
       git push || echo "-- ERROR - CANNOT PUSH"
       change=''
     else
