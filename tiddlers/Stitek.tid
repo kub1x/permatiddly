@@ -1,0 +1,10 @@
+created: 20180103130144969
+modified: 20180103130609170
+tags: Štítek
+title: Štítek
+type: text/vnd.tiddlywiki
+
+Kdykoli přidáme popis nějakému štítku, označímeho jako štítek ;)
+
+Tiddlery s tímto štítkem: 
+<<list-links "[tag{!!title}sort[title]]">>

@@ -1,0 +1,10 @@
+created: 20180103130032258
+modified: 20180103130553032
+tags: Štítek
+title: TODO
+type: text/vnd.tiddlywiki
+
+Na všem se dá "ještě pracovat". Štítkem [[TODO]] označujeme pouza takové tiddlery, kde něco vyloženě chybí. 
+
+Tiddlery s tímto štítkem: 
+<<list-links "[tag{!!title}sort[title]]">>

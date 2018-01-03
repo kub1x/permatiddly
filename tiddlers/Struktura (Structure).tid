@@ -1,0 +1,12 @@
+created: 20180103125925806
+modified: 20180103130625005
+tags: Štítek
+title: Struktura (Structure)
+type: text/vnd.tiddlywiki
+
+Za strukturu označujeme cokoli, co do svého designu můžeme hmotně umístit. 
+
+Všechny struktury zahradničí. 
+
+Tiddlery s tímto štítkem: 
+<<list-links "[tag{!!title}sort[title]]">>
