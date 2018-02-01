@@ -1,0 +1,13 @@
+created: 20180123134332607
+modified: 20180123135136477
+tags: Deník
+title: 23. 1. 2018 - základ PDC kurzu 2016/17
+type: text/vnd.tiddlywiki
+
+Dostal jsem se k nějakému tomu psaní a přidal seznam účastníku svého úplného kurzu. Ti, kteří se dále realizují budou mít vlastní tiddler. Zároveň se rozšiřuje seznam nevytvořených linků (viz níže). Doufám, že se budou postupně zaplňovat ;)
+
+!!!Dnes vytvořené: 
+<<list-links "[!tag[Deník]sameday:created{!!created}!prefix[$:]sort[title]]">>
+
+!!!Chybějící: 
+<<list-links '[all[missing]]'>>

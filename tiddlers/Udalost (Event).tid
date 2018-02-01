@@ -1,0 +1,9 @@
+created: 20180123132104835
+modified: 20180123132441205
+tags: Štítek
+title: Událost (Event)
+type: text/vnd.tiddlywiki
+
+Přiřazuje se událostem s konkrétním časem i opakujícím se. 
+
+<<list-links "[tag{!!title}sort[title]]">>
