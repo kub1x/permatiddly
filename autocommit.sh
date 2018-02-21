@@ -24,4 +24,4 @@ while [ -n "$change" ] ; do
   ((count += 1))
 done
 
-echo
+echo "DONE"
