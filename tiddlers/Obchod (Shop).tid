@@ -1,0 +1,9 @@
+created: 20180423094545068
+modified: 20180423094613036
+tags: Štítek
+title: Obchod (Shop)
+type: text/vnd.tiddlywiki
+
+Kdokoli, kdo něco prodává. 
+
+<<list-links "[tag{!!title}sort[title]]">>
