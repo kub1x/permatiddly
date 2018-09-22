@@ -1,0 +1,10 @@
+created: 20180922151844787
+list: 
+modified: 20180922152003133
+tags: [[Štítek (Tag)]]
+title: Nástroj (Tool)
+type: text/vnd.tiddlywiki
+
+Jakákoli hmotná věc, která se "na něco pužívá". 
+
+<<list-links "[tag{!!title}sort[title]]">>
