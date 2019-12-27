@@ -8,6 +8,7 @@ count=0
 change=$(git status -s $DIR)
 
 while [ -n "$change" ] ; do
+  echo # newline
   echo "-- Found change, waiting 10min"
   sleep 600 # if nothing changed for 10min
 
@@ -23,5 +24,3 @@ while [ -n "$change" ] ; do
   fi
   ((count += 1))
 done
-
-echo "DONE"
