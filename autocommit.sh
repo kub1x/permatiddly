@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd /var/www/kub1x.org/permatiddly
+
 DIR="tiddlers"
 
 #TODO fail if not on master branch
