@@ -1,6 +1,6 @@
 created: 20180103130032258
 list: 
-modified: 20180922152003226
+modified: 20200415115405290
 tags: [[Štítek (Tag)]]
 title: TODO
 type: text/vnd.tiddlywiki
@@ -9,3 +9,14 @@ Na všem se dá "ještě pracovat". Štítkem [[TODO]] označujeme pouza takové
 
 Tiddlery s tímto štítkem: 
 <<list-links "[tag{!!title}sort[title]]">>
+
+----
+
+Chybějící tiddlery: 
+<<list-links "[all[missing]]">>
+
+----
+
+Osamocené tiddlery: 
+Chybějící tiddlery: 
+<<list-links "[all[orphans]]">>
