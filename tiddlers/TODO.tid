@@ -1,6 +1,6 @@
 created: 20180103130032258
 list: 
-modified: 20200415115405290
+modified: 20200430092617860
 tags: [[Štítek (Tag)]]
 title: TODO
 type: text/vnd.tiddlywiki
@@ -19,4 +19,4 @@ Chybějící tiddlery:
 
 Osamocené tiddlery: 
 Chybějící tiddlery: 
-<<list-links "[all[orphans]]">>
+`<<list-links "[all[orphans]]">>`
