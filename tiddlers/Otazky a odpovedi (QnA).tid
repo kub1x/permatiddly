@@ -1,0 +1,9 @@
+created: 20200605053242926
+modified: 20200605053308432
+tags: [[Štítek (Tag)]]
+title: Otázky a odpovědi (QnA)
+type: text/vnd.tiddlywiki
+
+Z těchto tiddlerů můžeme časem udělat celou QnA sekci. 
+
+<<list-links "[tag{!!title}sort[title]]">>
